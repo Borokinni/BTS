@@ -33,6 +33,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Contact
 
-For any inquiries, please reach out to Dansteve Adekanbi at [danstevea@gmail.com](mailto:danstevea@gmail.com).
-
 **Note:** This is a basic README template. You may need to update it based on the actual project details, such as the installation process, usage, dependencies, etc.
